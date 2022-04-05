@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: reference-new.html
 keywords: what's new, new, features, release notes, enhancements
-summary: New releases of ONTAP Cloud introduce new features, enhancements, and bug fixes.
+summary: ONTAP Cloud 9.3 includes several new features and enhancements.
 ---
 
 = What's new in ONTAP Cloud 9.3
