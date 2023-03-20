@@ -23,6 +23,8 @@ sidebar:
       url: /index.html
     - title: What's new
       url: /reference-new.html
+    - title: Other versions   
+      url: /reference-other-versions.html
     - title: Supported configurations
       url: /reference-supported-configs.html
     - title: Storage limits
