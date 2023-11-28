@@ -5,6 +5,7 @@ settings:
     pdf_enabled: true
   prod:
     pdf_enabled: true
+    harmony_enabled: true
   versions:
     - version-number: "9.3"
       url: /cloud-volumes-ontap-93-relnotes      
@@ -80,5 +81,4 @@ homepage:
         - title: Cloud Central blog
           url: https://cloud.netapp.com/blog
         - title: Cloud webinars
-          url: https://cloud.netapp.com/events
-          
+          url: https://cloud.netapp.com/event
