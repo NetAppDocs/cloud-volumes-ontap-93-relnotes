@@ -57,6 +57,9 @@ sidebar:
       url: /reference-limitations.html
     - title: Legal notices
       url: /legal-notices.html
+product-family:
+  name: BlueXP
+  repo: bluexp-family
 homepage:
   tiles:
     - title: Get started
@@ -78,5 +81,4 @@ homepage:
         - title: Cloud Central blog
           url: https://cloud.netapp.com/blog
         - title: Cloud webinars
-          url: https://cloud.netapp.com/events
-
+          url: https://cloud.netapp.com/event
