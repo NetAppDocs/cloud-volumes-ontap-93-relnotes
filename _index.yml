@@ -2,7 +2,7 @@ indexpage:
   title: ONTAP Cloud 9.3 Release Notes
   lead: These release notes describe new features, limitations, and known issues for ONTAP Cloud 9.3.
   summary: These release notes describe new features, limitations, and known issues for ONTAP Cloud 9.3.
-  keywords: ontap, documentation, e-series, cloud, 93
+  keywords: cloud volumes ontap, licensing, security, release notes, storage, data protection, configuration, upgrade, encryption, cvo, 93
   tiles:
     - title: Get started
       links:
