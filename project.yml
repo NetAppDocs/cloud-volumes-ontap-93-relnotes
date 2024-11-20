@@ -1,5 +1,5 @@
 settings:
-  name: ONTAP Cloud release notes
+  name: ONTAP Cloud 
   downlevel: true
   platform: cloud
   internal:
@@ -51,7 +51,7 @@ settings:
       url: /cloud-volumes-ontap-94-relnotes      
 sidebar:
   entries:
-    - title: Release notes home
+    - title: ONTAP Cloud 9.3 release notes
       url: /index.html
     - title: What's new
       url: /reference-new.html
