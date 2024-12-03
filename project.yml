@@ -1,5 +1,5 @@
 settings:
-  name: ONTAP Cloud 
+  name: Cloud Volumes ONTAP
   downlevel: true
   platform: cloud
   internal:
