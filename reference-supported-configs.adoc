@@ -66,7 +66,7 @@ Notes:
 
 . If you enable data tiering, a system’s capacity limit stays the same. The capacity limit includes both disks and object storage.
 
-. For AWS region support, see https://cloud.netapp.com/cloud-volumes-global-regions[Cloud Volumes Global Regions].
+. For AWS region support, see https://bluexp.netapp.com/cloud-volumes-global-regions[Cloud Volumes Global Regions].
 
 == ONTAP Cloud for Azure
 
@@ -107,4 +107,4 @@ Notes:
 
 . Enhanced write performance is supported when using Azure Premium Storage disks with ONTAP Cloud Standard, Premium, and BYOL, but not when using the DS3_v2 virtual machine type.
 
-. For Azure region support, see https://cloud.netapp.com/cloud-volumes-global-regions[Cloud Volumes Global Regions].
+. For Azure region support, see https://bluexp.netapp.com/cloud-volumes-global-regions[Cloud Volumes Global Regions].
